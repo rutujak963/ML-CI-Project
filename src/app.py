@@ -7,7 +7,7 @@ Created on Mon Nov 30 15:38:40 2020
 
 
 def main():
-    return "Welcome to CI Project"
+    return "Welcome to CI Project."
 
 
 main()

@@ -10,7 +10,7 @@ from src.app import main
 #import unittest
 
 def test_main():
-    assert main() == "Welcome to CI Project"
+    assert main() == "Welcome to CI Project."
         
 '''
 class RegisterNewInstructor(unittest.TestCase):
