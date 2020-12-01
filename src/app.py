@@ -11,8 +11,9 @@ app = Flask(__name__)
 
 @app.route("/")
 def main():
-    print("Welcome to CI Project.")
-    return "Welcome to CI Project."
+    success = "Welcome to CI Project."
+    return success
+    #return "Welcome to CI Project."
 
 if __name__ == "__main__":
     app.run()
