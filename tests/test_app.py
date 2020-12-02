@@ -10,6 +10,7 @@ from src.app import main
 #import unittest
 
 def test_main():
+    print("Welcome to CI Project.")
     assert main() == "Welcome to CI Project."
         
 '''
