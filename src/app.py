@@ -12,6 +12,7 @@ app = Flask(__name__)
 @app.route("/")
 def main():
     success = "Welcome to CI Project."
+    print(success)
     return success
     #return "Welcome to CI Project."
 
