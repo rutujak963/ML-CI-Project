@@ -36,7 +36,7 @@ jobs:
     - name: Run app
       run: |
         echo 'Run'
-        python src\app.py
+        python src/app.py
     - name: Test with pytest
       run: |
         echo 'Test'
