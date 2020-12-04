@@ -1,2 +1,2 @@
 # ML-CI-Project
-CI project
+CI project with GitHub action.
